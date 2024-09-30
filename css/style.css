@@ -16,3 +16,20 @@ img {
     margin-right: auto;
     width: 50%;
 }
+
+/* Styles for function change background color */
+.bg-red {
+    background-color: red;
+}
+
+.bg-blue {
+    background-color: blue;
+}
+
+.bg-yellow {
+    background-color: yellow;
+}
+
+.bg-pink {
+    background-color: pink;
+}
